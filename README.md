@@ -1,1 +1,1 @@
-# ML-shortcuts
+# Digit Classifier
